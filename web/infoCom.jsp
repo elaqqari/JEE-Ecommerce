@@ -101,7 +101,7 @@
                               </div>
                               <div class="col-md-6">
                                   <p class="small mt">Total</p>
-                                  <p><%=rs.getFloat("total")%> DH  <input type="hidden" name="total" value="<%=rs.getFloat("total")%>"</p>
+                                  <p><%=rs.getFloat("total")%> DH  <input type="hidden" name="total" value="<%=rs.getFloat("total")%>" /></p>
                               </div>
                               <input type="submit" value="Consulter" /></font>
                           </div>
